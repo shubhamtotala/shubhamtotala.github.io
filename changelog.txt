@@ -1,0 +1,12 @@
+Version 1.0
+i)  Intial version Release
+
+Version 1.1
+i)  Fixed several issues as reviewer pointed.
+
+Version 1.2
+i)  Desclared Font Awesome License Under readme.txt
+ii) Remove text-domain in get_theme_mod from header.php on line number 32. 
+
+Version 1.3
+i)  Desclared Font Awesome License Under readme.txt As Reviewer Pointed.
